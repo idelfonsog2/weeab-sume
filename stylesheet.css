@@ -1,0 +1,21 @@
+/* Start by setting display:none to make this hidden.
+   Then we position it in relation to the viewport window
+   with position:fixed. Width, height, top and left speak
+   for themselves. Background we set to 80% white with
+   our animation centered, and no-repeating */
+   img.logo {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       padding-top: 250px;
+       padding-bottom: 400px;
+   }
+.container-fluid {
+  background-color: white;
+}
+
+#submit {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
