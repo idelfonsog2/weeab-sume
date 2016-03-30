@@ -1,0 +1,2 @@
+# weeab-sume
+Through the Typeform API, we gather all necessary information from the user to create a complete resume. The twist is that we give the user the ability to choose from 8 themes. All these themes are anime theme. Leading to creating a beautiful, creative, anime resume that will definitely get attention.   After getting all information through Typeform, jsPDF was used to adjust the text and give the ability to download the result as PDF.   Technology used: Javascript, HTML/CSS, Bootstrap, jsPDF, Typeform APIless
